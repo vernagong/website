@@ -7,11 +7,30 @@
   display: block !important;
   position: relative;
 }
+nav ul li a {
+  padding: 2px 0 0 0;
+  position: relative;
+  display: block;
+  font-size: 12px;
+  color: #999999;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  line-height: 14px;
+  text-transform: uppercase;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  -ms-transition: all 0.3s ease-in-out 0s;
+  -o-transition: all 0.3s ease-in-out 0s;
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
 
-
-/*----------------------------------------------------------------------------------*/
-/*  Header
 /*-----------------------------------------------------------------------------------*/
+
+/*  /* FINSTEP page */
+
+/*-----------------------------------------------------------------------------------*/
+
+/*  Header */
 
 #header-fin {
   background: url("../images/portfolio/header_finstep.svg") repeat scroll center center / cover;
@@ -57,13 +76,6 @@
   font-size: 15px;
 }
 
-
-
-/*-----------------------------------------------------------------------------------*/
-
-/*  /* FINSTEP page */
-
-/*-----------------------------------------------------------------------------------*/
 
 /* 背景概述 */
 
@@ -247,6 +259,182 @@
     padding-right: 20px;
 }
 .solution-flow{
+    padding-top: 50px;
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+
+/*  /* 預約服務 page */
+
+/*-----------------------------------------------------------------------------------*/
+
+/*  Header */
+
+#header-book {
+  background: url("../images/portfolio/header_booking.svg") repeat scroll center center / cover;
+  height: 100vh;
+  width: 100%;
+}
+
+
+#header-book .header-book-content {
+  height: 100vh;
+  text-align: left;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.header-book-content h1 {
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.header-book-content p {
+  font-size: 18px;
+  letter-spacing: 5px;
+  margin-top: 0;
+  margin-bottom: 30px;
+  text-transform: capitalize;
+  color: #fff;
+  font-weight: 500;
+}
+
+.header-book-content .list-social li {
+  float: left;
+  margin-right: 20px;
+}
+
+.header-book-content .list-social li i {
+  color: #fff;
+  font-size: 15px;
+}
+
+/* 背景概述 */
+
+.book_function{
     padding-top: 40px;
 }
 
+/* 客群背景 */
+
+
+.client {
+  padding-left: 20px;
+  background: #f8f8f8;
+}
+
+.client .container-main {
+  display: inline-block;
+  width: 100%;
+}
+
+.client .container-main .block-main {
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+.client-text{
+    padding-bottom: 40px;
+}
+
+.client-item{
+    padding-bottom: 20px;
+}
+.client-text{
+    padding: 30px 0px 0px 0px;
+}
+.client-name{
+    font-size: 16px;
+}
+
+
+/* goal */
+.goal {
+  padding-left: 18px;
+  background: #fff;
+}
+
+.goal .container-main {
+  display: inline-block;
+  width: 100%;
+}
+
+.goal .container-main .block-main {
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+.goal-text{
+    font-size: 20px;
+    color: #82B513;
+    padding-bottom: 40px;
+}
+
+/* user story mapping */
+
+.container-mapping .block-mapping .content-mapping {
+  background: #f8f8f8 none repeat scroll 0 0;
+  display: inline-block;
+  width: 100%;
+}
+
+.content-mapping {
+  text-align: center;
+  vertical-align: middle;
+  background: #fff;
+}
+
+.content-mapping .container-mapping {
+  display: inline-block;
+  width: 100%;
+}
+
+.content-mapping .container-mapping .block-mapping {
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+/* solution */
+.solution-book-table{
+  display: table-cell;
+  vertical-align: middle;
+}
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+ul-so{
+  width: 95%;
+  display: block;
+  margin: 1em auto;
+  border-collapse: collapse;
+}
+.thead{display: table-header-group;}
+.tr{display: table-row;}
+.tbody{display: table-row-group;}
+.thead li, .tr li{
+  display: table-cell;
+  padding: 5px;
+  border: 1px solid #aaa;
+}
+.thead li{
+  text-align: center;
+  font-weight: bold;
+  background: #fff;
+  padding: 10px;
+}
+.solution-item-book{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.book-solution-flow{
+    display: table-cell;
+    vertical-align: middle;
+}

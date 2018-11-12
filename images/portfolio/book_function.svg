@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1248px" height="599px" viewBox="0 0 1248 599" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bookfast" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bookfast_old" transform="translate(-96.000000, -851.000000)">
+            <g id="Group-5" transform="translate(96.000000, 851.000000)">
+                <text id="--幫助會館管理健身團體課/教練課的老師" font-family="PingFangTC-Regular, PingFang TC" font-size="20" font-weight="normal" fill="#212121">
+                    <tspan x="363" y="227">- 幫助會館管理健身團體</tspan>
+                    <tspan x="363" y="255">課/教練課的老師及課程</tspan>
+                    <tspan x="363" y="283">- 解決傳統管理的不便</tspan>
+                    <tspan x="363" y="311">- 將資料進行報表分析，</tspan>
+                    <tspan x="363" y="339">幫助決策</tspan>
+                </text>
+                <text id="--提供給教練查看個人行事曆，進行排課、" font-family="PingFangTC-Regular, PingFang TC" font-size="20" font-weight="normal" fill="#212121">
+                    <tspan x="655" y="227">- 提供給教練查看個人行</tspan>
+                    <tspan x="655" y="255">事曆，進行排課、約課</tspan>
+                    <tspan x="655" y="283">- 幫助即時查看學員的預</tspan>
+                    <tspan x="655" y="311">約狀況</tspan>
+                    <tspan x="655" y="339">- 包含android、ios版本</tspan>
+                </text>
+                <text id="--解決學員預約團課、教練課只能打電話的" font-family="PingFangTC-Regular, PingFang TC" font-size="20" font-weight="normal" fill="#212121">
+                    <tspan x="73" y="227">- 解決學員預約團課、教</tspan>
+                    <tspan x="73" y="255">練課只能打電話的困擾</tspan>
+                    <tspan x="73" y="283">- 可查詢教練的開課，增</tspan>
+                    <tspan x="73" y="311">加教練曝光度</tspan>
+                    <tspan x="73" y="339">- 包含android、ios版本</tspan>
+                </text>
+                <text id="--幫助會館快速建立RWD形象官網" font-family="PingFangTC-Regular, PingFang TC" font-size="20" font-weight="normal" fill="#212121">
+                    <tspan x="947" y="227">- 幫助會館快速建立RWD</tspan>
+                    <tspan x="947" y="255">形象官網</tspan>
+                </text>
+                <text id="預約服務系統" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#212121">
+                    <tspan x="564" y="35">預約服務系統</tspan>
+                </text>
+                <text id="商家管理後台" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#212121">
+                    <tspan x="418" y="161">商家管理後台</tspan>
+                </text>
+                <text id="團體課" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#212121">
+                    <tspan x="289" y="450">團體課</tspan>
+                </text>
+                <text id="教練app" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#212121">
+                    <tspan x="732.35" y="161">教練app</tspan>
+                </text>
+                <text id="學員預約app" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#212121">
+                    <tspan x="130.35" y="161">學員預約app</tspan>
+                </text>
+                <text id="品牌官網" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#212121">
+                    <tspan x="1022" y="161">品牌官網</tspan>
+                </text>
+                <rect id="Rectangle-Copy-3" stroke="#91C422" fill-rule="nonzero" x="493.5" y="0.5" width="261" height="55" rx="27.5"></rect>
+                <rect id="Rectangle-Copy-4" stroke="#91C422" fill-rule="nonzero" x="347.5" y="126.5" width="261" height="55" rx="27.5"></rect>
+                <rect id="Rectangle-Copy-8" stroke="#91C422" fill-rule="nonzero" x="239.5" y="415.5" width="159" height="55" rx="27.5"></rect>
+                <rect id="Rectangle-Copy-9" stroke="#91C422" fill-rule="nonzero" x="559.5" y="415.5" width="159" height="55" rx="27.5"></rect>
+                <g id="Group-7" transform="translate(0.000000, 543.000000)">
+                    <rect id="Rectangle-Copy-10" stroke="#91C422" fill="#91C422" fill-rule="nonzero" x="0.5" y="0.5" width="187" height="55" rx="27.5"></rect>
+                    <text id="教練課預約" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#FFFFFF">
+                        <tspan x="44" y="35">教練課預約</tspan>
+                    </text>
+                </g>
+                <g id="Group-8" transform="translate(205.000000, 543.000000)">
+                    <rect id="Rectangle-Copy-11" stroke="#91C422" fill="#91C422" fill-rule="nonzero" x="0.5" y="0.5" width="159" height="55" rx="27.5"></rect>
+                    <text id="會館管理" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#FFFFFF">
+                        <tspan x="40" y="35">會館管理</tspan>
+                    </text>
+                </g>
+                <g id="Group-10" transform="translate(381.000000, 543.000000)">
+                    <rect id="Rectangle-Copy-12" stroke="#91C422" fill="#91C422" fill-rule="nonzero" x="0.5" y="0.5" width="159" height="55" rx="27.5"></rect>
+                    <text id="課程管理" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#FFFFFF">
+                        <tspan x="40" y="35">課程管理</tspan>
+                    </text>
+                </g>
+                <g id="Group-11" transform="translate(558.000000, 543.000000)">
+                    <rect id="Rectangle-Copy-13" stroke="#91C422" fill="#91C422" fill-rule="nonzero" x="0.5" y="0.5" width="159" height="55" rx="27.5"></rect>
+                    <text id="老師管理" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#FFFFFF">
+                        <tspan x="40" y="35">老師管理</tspan>
+                    </text>
+                </g>
+                <g id="Group-12" transform="translate(735.000000, 543.000000)">
+                    <rect id="Rectangle-Copy-14" stroke="#91C422" fill="#91C422" fill-rule="nonzero" x="0.5" y="0.5" width="159" height="55" rx="27.5"></rect>
+                    <text id="權限管理" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#FFFFFF">
+                        <tspan x="40" y="35">權限管理</tspan>
+                    </text>
+                </g>
+                <g id="Group-15" transform="translate(911.000000, 543.000000)">
+                    <rect id="Rectangle-Copy-15" stroke="#91C422" fill-rule="nonzero" x="0.5" y="0.5" width="159" height="55" rx="27.5"></rect>
+                    <text id="報表管理" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#313131">
+                        <tspan x="40" y="35">報表管理</tspan>
+                    </text>
+                </g>
+                <g id="Group-16" transform="translate(1088.000000, 543.000000)">
+                    <rect id="Rectangle-Copy-16" stroke="#91C422" fill-rule="nonzero" x="0.5" y="0.5" width="159" height="55" rx="27.5"></rect>
+                    <text id="會員管理" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#313131">
+                        <tspan x="40" y="35">會員管理</tspan>
+                    </text>
+                </g>
+                <text id="教練課" font-family="PingFangTC-Medium, PingFang TC" font-size="20" font-weight="400" fill="#313131">
+                    <tspan x="609" y="450">教練課</tspan>
+                </text>
+                <rect id="Rectangle-Copy-6" stroke="#91C422" fill-rule="nonzero" x="639.5" y="126.5" width="261" height="55" rx="27.5"></rect>
+                <rect id="Rectangle-Copy-5" stroke="#91C422" fill-rule="nonzero" x="57.5" y="126.5" width="261" height="55" rx="27.5"></rect>
+                <rect id="Rectangle-Copy-7" stroke="#91C422" fill-rule="nonzero" x="931.5" y="126.5" width="261" height="55" rx="27.5"></rect>
+                <path d="M190,127.155051 C474.66527,66.9483164 769.344914,66.9483164 1074.03893,127.155051" id="Path-3" stroke="#A1A1A1" fill-rule="nonzero"></path>
+                <path d="M94,543.418176 C439.846288,475.030515 797.859265,475.030515 1168.03893,543.418176" id="Path-3-Copy-3" stroke="#A1A1A1" fill-rule="nonzero"></path>
+                <path d="M285,544 C512.348317,475.612339 747.694628,475.612339 991.038932,544" id="Path-3-Copy-4" stroke="#A1A1A1" fill-rule="nonzero"></path>
+                <path d="M461,544 C575.002432,475.612339 693.015409,475.612339 815.038932,544" id="Path-3-Copy-5" stroke="#A1A1A1" fill-rule="nonzero"></path>
+                <path d="M478,127.155051 C572.0381,66.9483164 669.384411,66.9483164 770.038932,127.155051" id="Path-3-Copy" stroke="#A1A1A1" fill-rule="nonzero"></path>
+                <path d="M319,415.155051 C422.376255,362.948316 529.389233,362.948316 640.038932,415.155051" id="Path-3-Copy-2" stroke="#A1A1A1" fill-rule="nonzero"></path>
+                <path d="M624,56 L624,82" id="Line-4" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+                <path d="M482,350 L482,376" id="Line-4-Copy" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+                <path d="M640,471 L640,543" id="Line-4-Copy-2" stroke="#979797" stroke-linecap="square" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
