@@ -154,6 +154,7 @@ nav ul li a {
 }
 .Interview-txt h4{
   font-size: 18px;
+  line-height: 25px;
 }
 
 .Interview-block .Interview-info .Interview-txt p {
@@ -245,9 +246,10 @@ nav ul li a {
 }
 
 /* needed */
-.needed-text{
+.needed-text-fin{
     font-size: 20px;
     font-weight: 600;
+    line-height: 25px;
     text-align: center;
     color: #595FD1;
 }
@@ -353,6 +355,13 @@ nav ul li a {
     font-size: 16px;
 }
 
+/* needed */
+
+.needed-text{
+    text-align: left;
+    color: #313131;
+    line-height: 25px;
+}
 
 /* goal */
 .goal {
@@ -371,6 +380,7 @@ nav ul li a {
 }
 .goal-text{
     font-size: 20px;
+    font-weight: 500;
     color: #82B513;
     padding-bottom: 40px;
 }
@@ -437,4 +447,121 @@ ul-so{
 .book-solution-flow{
     display: table-cell;
     vertical-align: middle;
+}
+
+
+
+/*-----------------------------------------------------------------------------------*/
+
+/*  /* SU page */
+
+/*-----------------------------------------------------------------------------------*/
+
+/*  Header */
+
+#header-SU {
+  background: url("../images/portfolio/header_SU.png") repeat scroll center center / cover;
+  height: 100vh;
+  width: 100%;
+}
+
+
+#header-SU .header-SU-content {
+  height: 100vh;
+  text-align: left;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.header-SU-content h1 {
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.header-SU-content p {
+  font-size: 18px;
+  letter-spacing: 5px;
+  margin-top: 0;
+  margin-bottom: 30px;
+  text-transform: capitalize;
+  color: #fff;
+  font-weight: 500;
+}
+
+.header-SU-content .list-social li {
+  float: left;
+  margin-right: 20px;
+}
+
+.header-SU-content .list-social li i {
+  color: #fff;
+  font-size: 15px;
+}
+
+/* solution */
+
+.solution-text-su{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 25px;
+    text-align: center;
+    color: #313131;
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+
+/*  /* Bonny page */
+
+/*-----------------------------------------------------------------------------------*/
+
+/*  Header */
+
+#header-bonny {
+  background: url("../images/portfolio/header_bonny.svg") repeat scroll center center / cover;
+  height: 100vh;
+  width: 100%;
+}
+
+
+#header-bonny .header-bonny-content {
+  height: 100vh;
+  text-align: left;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.header-bonny-content h1 {
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.header-bonny-content p {
+  font-size: 18px;
+  letter-spacing: 5px;
+  margin-top: 0;
+  margin-bottom: 30px;
+  text-transform: capitalize;
+  color: #fff;
+  font-weight: 500;
+}
+
+.header-bonny-content .list-social li {
+  float: left;
+  margin-right: 20px;
+}
+
+.header-bonny-content .list-social li i {
+  color: #fff;
+  font-size: 15px;
 }
