@@ -307,7 +307,9 @@ nav ul li a {
   height: 400px;
   object-fit: cover;
 }
-
+.about-img img{
+    padding-bottom: 20px;
+}
 #about .about-descr .p-heading {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
