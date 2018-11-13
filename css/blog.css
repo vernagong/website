@@ -417,14 +417,20 @@ nav ul li a {
   box-sizing: border-box;
 }
 ul-so{
-  width: 95%;
+  width: 100%;
   display: block;
   margin: 1em auto;
   border-collapse: collapse;
 }
-.thead{display: table-header-group;}
-.tr{display: table-row;}
-.tbody{display: table-row-group;}
+.thead{
+    display: table-header-group;
+}
+.tr{
+    display: table-row;
+}
+.tbody{
+    display: table-row-group;
+}
 .thead li, .tr li{
   display: table-cell;
   padding: 5px;
