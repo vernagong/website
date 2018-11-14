@@ -79,7 +79,7 @@ $(document).ready(function() {
   $('.services-carousel').owlCarousel({
       autoplay: false,
       loop: false,
-      margin: 20,
+      margin: 60,
       dots: true,
       nav: false,
       responsiveClass: true,
