@@ -447,7 +447,7 @@ nav ul li a {
 .portfolio-thumbnail {
   margin-bottom: 30px;
   overflow: hidden;
-  min-height: 260px;
+  min-height: 400px;
 }
 
 .portfolio-thumbnail img {
