@@ -33,7 +33,7 @@ nav ul li a {
 /*  Header */
 
 #header-fin {
-  background: url("../images/portfolio/header_finstep.svg") repeat scroll center center / cover;
+  background: url("../images/portfolio/header_finstep.png") repeat scroll center center / cover;
   height: 100vh;
   width: 100%;
 }
@@ -251,7 +251,7 @@ nav ul li a {
     font-weight: 600;
     line-height: 25px;
     text-align: center;
-    color: #595FD1;
+    color: #3057D5;
 }
 .solution-item{
     padding: 10px 0px 10px 30px; 
