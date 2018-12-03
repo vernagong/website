@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<script> 
+function checkpassword(){ 
+var pwd="vernawork_booking";//你和朋友約定的密碼，寫死的
+var inpwd=document.getElementById("password").value;//獲取輸入的代碼
+if(pwd == inpwd){ //判斷一下是否一樣
+window.location.href="http://vernagong.com/booking.html"; 
+}
+} 
+</script>
+
+<head>
+  <!-- meta -->
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Verna - Personal Website</title>
+  <meta content="vernagong, Verna, VernaGong, Vernagong, 產品設計師, UX設計師, 龔淑雅, 淑雅,Product designer, UX designer" name="keywords">
+  <meta content="成為產品設計師，是因為喜歡作品能夠實際被運用、能夠幫助生活，享受解決問題、思考設計的過程。閒暇之餘，也會撰寫Medium、與朋友發起Side Project、或分享作品至behance，紀錄生活上的想法及心得。" name="description">
+  <meta name="Author" content="Vernagong">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,700,700i,900,900i" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/magnific-popup/magnific-popup.css" rel="stylesheet">
+  <link href="lib/hover/hover.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- Responsive css -->
+  <link href="css/responsive.css" rel="stylesheet">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="images/favicon.png">
+
+  <!-- =======================================================
+    Theme Name: Folio
+    Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+</head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+  <!-- start section navbar -->
+  <nav id="main-nav">
+    <div class="row">
+      <div class="container">
+
+        <div class="logo">
+          <a href="index.html"><img src="images/logo-icon.svg" alt="logo"></a>
+        </div>
+
+        <div class="responsive"><i data-icon="m" class="ion-navicon-round"></i></div>
+
+        <ul class="nav-menu list-unstyled">
+          <li><a href="index.html#header" class="smoothScroll">首頁</a></li>
+          <li><a href="index.html#about" class="smoothScroll">關於</a></li>
+          <li><a href="index.html#portfolio" class="smoothScroll">作品</a></li>
+          <li><a href="index.html#journal" class="smoothScroll">興趣</a></li>
+          <li><a href="index.html#contact" class="smoothScroll">聯絡</a></li>
+        </ul>
+
+      </div>
+    </div>
+  </nav>
+  <!-- 背景 -->
+  <div id="header-code" class="home">
+    <div class="container">
+      <div class="header-code-content">
+            <div class="row">
+               <div class="col-lg-12 text-center">
+                   <i class="fab fa-keybase fa-5x"></i>
+                </div>
+                <div class="col-lg-12 text-center">
+                   <h5 class="text-muted-code">輸入密碼才能查看作品喔</h5>
+                </div>
+                <div class="col-lg-12 text-center">
+                   <input class="form-control-code" type="password" id="password" name="password">
+                      <div class="col-lg-12 text-center-send">
+                         <input class="btn-default-contact" name="a" type="submit" value="確定" onclick="checkpassword();"/>
+                      </div>
+                </div>
+            </div>
+      </div>
+    </div>
+  </div>
+  <!-- <section id="contact">
+        <div class="container wow fadeInUp">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h5 class="section-subheading text-muted">沒有密碼，你可以...</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <form id="contactForm" name="sentMessage" action="https://formspree.io/verna.gono@gmail.com" method="POST" novalidate>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group" >
+                                   <p>您的姓名或稱呼＊</p>
+                                    <input class="form-control" name="name" type="text">
+                                </div>
+                                <div class="form-group">
+                                   <p>您常用的e-mail信箱＊</p>
+                                    <input class="form-control" name="_replyto" type="email">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                   <p>任何想說的話＊</p>
+                                    <textarea class="form-control" name="message"></textarea>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-lg-12 text-center-send">
+                                <div id="success"></div>
+                                <div class="row-send">
+                                    <input class="btn-feature btn-default-contact" type="submit" value="送出">
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section> -->
+   
+<!-- start section footer -->
+  <div id="footer" class="text-center">
+    <div class="container">
+      <div class="socials-media text-center">
+
+        <ul class="list-unstyled">
+          <li><a href="https://medium.com/@vernagong" target="_blank"><i class="fab fa-medium-m"></i></a></li>
+          <li><a href="https://www.behance.net/vernagonob1aa" target="_blank"><i class="fab fa-behance"></i></a></li>
+          <li><a href="https://www.linkedin.com/in/verna-gong" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+          <li><a href="https://www.facebook.com/verna.gong" target="_blank"><i class="ion-social-facebook"></i></a></li>
+        </ul>
+
+      </div>
+
+      <p>&copy; Copyright 2018 by Verna Gong.</p>
+      
+    </div>
+  </div>
+<!-- End section footer -->
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/typed/typed.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/magnific-popup/magnific-popup.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>

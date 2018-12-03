@@ -103,5 +103,6 @@ $(document).ready(function() {
 
     portfolioIsotope.isotope({ filter: $(this).data('filter') });
   });
+    
 
 });
