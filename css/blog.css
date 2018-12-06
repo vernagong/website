@@ -246,6 +246,7 @@ nav ul li a {
 }
 
 /* needed */
+
 .needed-text-fin{
     font-size: 20px;
     font-weight: 600;
@@ -263,6 +264,35 @@ nav ul li a {
 .solution-flow{
     padding-top: 50px;
 }
+
+/* guideline */
+
+.guide-txt{
+    line-height: 24px;
+}
+.guide-color{
+    text-align: center;
+    padding: 40px 0px 20px 0px;
+}
+.guide-color-1{
+    color: #3057D5;
+}
+.guide-color-2{
+    color: #3C6DF0;
+}
+.guide-color-3{
+    color: #FDBF5E;
+}
+.guide-color-4{
+    color: #FFE197;
+}
+.guide-color-5{
+    color: #EAEAEA;
+}
+.guide-color-6{
+    color: #313131;
+}
+
 
 
 /*-----------------------------------------------------------------------------------*/
